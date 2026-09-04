@@ -29,7 +29,7 @@ Actualmente, continúo mis estudios de Ingeniería de Sistemas de Información e
 ### 🚀 Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nodejs,spring,java,react,postgres,aws,docker,git" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=flutter,ts,js,nodejs,nestjs,spring,java,react,nextjs,postgres,aws,docker,git,postman" alt="Stack Tecnológico" />
 </div>
 
 <br/>
