@@ -1,10 +1,12 @@
 <div align="center">
-  <h1>David Maldonado</h1>
+  <br/>
+  <span style="font-size: 2.1em; font-weight: 700;">David Maldonado</span>
 </div>
 
 ---
 
 <div align="center">
+  <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Desarrollador+Mobile+Flutter" alt="Typing SVG" />
   </a>
