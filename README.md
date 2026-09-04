@@ -34,9 +34,9 @@
 
 ### 💻 Sobre mí
 
-Desarrollador de Software con enfoque Full Stack y Móvil. Me especializo en construir aplicaciones robustas y escalables de punta a punta: desde el desarrollo móvil con Flutter hasta arquitecturas backend eficientes con Node.js, TypeScript y Spring Boot, aplicando buenas prácticas de diseño y de arquitectura de software.
+Desarrollador de Software con enfoque Full Stack y Móvil. Cuento con experiencia en desarrollo e integración de APIs REST, arquitecturas en tiempo real e infraestructura cloud en AWS, utilizando tecnologías como React, Next.js, TypeScript, Flutter, Node.js, NestJS y PostgreSQL; siempre aplicando buenas prácticas de diseño y arquitectura de software.
 
-Actualmente, continúo fortaleciendo mi formación técnica en Ingeniería de Software, aplicando patrones de diseño y metodologías ágiles en proyectos reales.
+Actualmente, continúo mis estudios de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas (UPC), profundizando en patrones de diseño, metodologías ágiles y soluciones escalables en proyectos reales.
 
 <br/>
 
