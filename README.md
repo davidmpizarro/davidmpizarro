@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <p>
     📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés Avanzado
