@@ -2,8 +2,10 @@
   <h1>David Maldonado</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&height=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Desarrollador+Mobile+Flutter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&height=48&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Desarrollador+Mobile+Flutter" alt="Typing SVG" />
   </a>
+
+  <br/>
 
   <p>📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés Avanzado</p>
 
