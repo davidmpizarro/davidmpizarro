@@ -41,5 +41,5 @@ Actualmente, continúo mis estudios de Ingeniería de Sistemas de Información e
 ---
 
 <div align="center">
-  <sub>Gracias por pasarte por mi perfil 💖</sub>
+  <sub>Gracias por pasarte por mi perfil 🚀</sub>
 </div>
