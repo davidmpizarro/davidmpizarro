@@ -2,7 +2,7 @@
   <h1>David Maldonado</h1>
 
   <p>
-    📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés
+    📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés Avanzado
   </p>
 
   <p>
