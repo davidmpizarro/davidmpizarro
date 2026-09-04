@@ -10,8 +10,8 @@
   <p>📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés Avanzado</p>
 
   <p>
-    <a href="https://linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://tu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/davidmaldonadopizarro/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://tu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 </div>
 
 ---
