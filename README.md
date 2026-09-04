@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
   <p>
     📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés Avanzado
   </p>
@@ -29,6 +31,8 @@
 Desarrollador de Software con enfoque Full Stack y Móvil. Me especializo en construir aplicaciones robustas y escalables de punta a punta: desde el desarrollo móvil con Flutter hasta arquitecturas backend eficientes con Node.js, TypeScript y Spring Boot, aplicando buenas prácticas de diseño y despliegues en entornos cloud.
 
 Actualmente continúo fortaleciendo mi formación en Ingeniería de Software, combinando metodologías ágiles, bases de datos relacionales y soluciones en tiempo real.
+
+<br/><br/>
 
 ---
 
