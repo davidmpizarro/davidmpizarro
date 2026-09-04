@@ -1,17 +1,11 @@
 <div align="center">
   <h1>David Maldonado</h1>
 
-  <br/>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Desarrollador+Mobile+Flutter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&height=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Desarrollador+Mobile+Flutter" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
-  <p>
-    📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés Avanzado
-  </p>
+  <p>📍 Lima, Perú &nbsp;•&nbsp; 🌐 Español | Inglés Avanzado</p>
 
   <p>
     <a href="https://linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;<a href="https://tu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
